@@ -6,7 +6,8 @@
 3. Output Layer - Binary Prediction
 
 ## Model Configuration
-Optimization Algorithm = `adam`, Loss Function = `binary_crossentropy`
++ Optimization Algorithm = `adam`
++ Loss Function = `binary_crossentropy`
 
 ## Model Accuracy 
 86%
